@@ -1,0 +1,4 @@
+Naloga FizzBuzz
+Uporabnik vpise stevilo med 0 in 100 Program zacne steti do te stevilke
+in ce je stevilo deljivo s 3 izpise fizz ce je deljivo s 5 izpise buzz 
+ce pa je hkrati deljivo s 3 in s 5 pa fizz buzz 
