@@ -1,4 +1,4 @@
-V tem repopositoriju so razlicne naloge za utrjevanje znanja Pythona
-Primeri so vzeti iz rzlicnih virov na spletu npr project Euler in practice python ...
+V tem repopositoriju so razlicne zadeve pisane v Pythonu
+Upam da mi bo to znaje ciprej prislo prav :) 
 
 lep pozdrav Janko Pirih 
