@@ -1,0 +1,11 @@
+Naredi nakupovalni listek:
+
+Uporabi vrsto seznama List. Na začetku naj bo ta seznam prazen.
+Nato uporabnika vprašaj, ali želi dodati kak izdelek v seznam. Če bo odgovor “da”, mu reci, naj 
+napiše izdelek, ki ga želi dodati. Nato ta izdelek pripni v listo. Nato ga še enkrat vprašaj, 
+ali želi dodati izdelek v seznam, če bo odgovor da, se zgodba ponovi, če pa bo odgovor ne, pa gre program ven iz zanke.
+Ko gre program ven iz zanke, izpiši vsebino nakupovalnega listka.
+Kodo naloži na GitHub in jo deli na SmartNinja forumu.
+
+Malo dodelan nakupListekII omogoca shranjevanje v datoteko pregled shranjenih listkov in dodajanje na ze obstojece
+listke
